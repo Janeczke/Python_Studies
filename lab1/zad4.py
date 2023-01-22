@@ -1,0 +1,5 @@
+i = int(input('Podaj i: '))
+j = int(input('Podaj j: '))
+print(i)
+print(j)
+print(i + j)
