@@ -1,0 +1,13 @@
+t1=(1,'alfa',False,5,3.14)
+t2=("alfa","beta",34,"omega",True)
+t3=(1,2,3,4,9.99)
+print(t1+t2)
+print(t1*2)
+print(t2*2)
+print(" t1:",len(t1),"\n","t2:",len(t2))
+print("t3 max:",max(t3))
+print(t1)
+l=list(t1)
+del l[1]
+t1=tuple(l)
+print(t1)

@@ -1,0 +1,4 @@
+To zostanie do dane do pliku!
+To bêdzie w nowej linijce
+To kolejna w nowej linijce :D
+Ma pan jakas prace zalatwic najlepiej front end dev ewentualnie backend z js :D

@@ -1,0 +1,1 @@
+green:zielony;cap:czapka;sky:niebo;worm:robak;page:strona;
